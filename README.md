@@ -1,1 +1,1 @@
-# pro-40
+# Virtual-Pet-2.0
